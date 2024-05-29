@@ -1,6 +1,6 @@
 import streamlit
 import snowflake.connector
-import panda
+import pandas
 
 streamlit.title('Zena\'s Amazing Athleisure Catalog')
 
